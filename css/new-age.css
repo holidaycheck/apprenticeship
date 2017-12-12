@@ -263,6 +263,7 @@ section.contact {
 
 footer {
   padding: 25px 0;
+  font-size: 12px;
   text-align: center;
   color: rgba(255, 255, 255, 0.3);
   background-color: #222222; }
@@ -270,9 +271,10 @@ footer {
     font-size: 12px;
     margin: 0; }
   footer ul {
-    margin-bottom: 0; }
+    margin-bottom: 0;
+    padding: 0;
+    }
     footer ul li a {
-      font-size: 12px;
       color: rgba(255, 255, 255, 0.3); }
       footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li a.active {
         text-decoration: none; }
