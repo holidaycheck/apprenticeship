@@ -50,10 +50,8 @@
       </div>
     </nav>
 
-    {% for section in page.sections %}
-      {% include_relative {{section}} %}
-    {% endfor %}
-    {% include_relative _apprenticeship/what-is-it.md %}
+    {% include master-header.html %}
+    {% include explainer.html %}
 
     <section class="features" id="why">
       <div class="container">
