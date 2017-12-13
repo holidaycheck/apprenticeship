@@ -11,38 +11,22 @@
       </div>
       <div class="col-lg-8 my-auto">
         <div class="container-fluid">
-          <div class="row">
+          {% for feature in page.features %}
+            {% assign index_mod2 = forloop.index | modulo:2 %}
+            {% if forloop.first or index_mod2 == 1 %}
+              <div class="row">
+            {% endif %}
             <div class="col-lg-6">
               <div class="feature-item">
                 <i class="text-primary"></i>
-                <h3>Device Mockups</h3>
-                <p class="text-muted">Ready to use HTML/CSS device mockups, no Photoshop required!</p>
+                <h3>{{feature.title}}</h3>
+                <p class="text-muted">{{feature.text}}</p>
               </div>
             </div>
-            <div class="col-lg-6">
-              <div class="feature-item">
-                <i class="text-primary"></i>
-                <h3>Flexible Use</h3>
-                <p class="text-muted">Put an image, video, animation, or anything else in the screen!</p>
+            {% if forloop.last or index_mod2 == 0 %}
               </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-lg-6">
-              <div class="feature-item">
-                <i class="text-primary"></i>
-                <h3>Free to Use</h3>
-                <p class="text-muted">As always, this theme is free to download and use for any purpose!</p>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="feature-item">
-                <i class="text-primary"></i>
-                <h3>Open Source</h3>
-                <p class="text-muted">Since this theme is MIT licensed, you can use it commercially!</p>
-              </div>
-            </div>
-          </div>
+            {% endif %}
+          {% endfor %}
         </div>
       </div>
     </div>
