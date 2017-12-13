@@ -20,7 +20,12 @@
               <div class="feature-item">
                 <i class="text-primary"></i>
                 <h3>{{feature.title}}</h3>
-                <p class="text-muted">{{feature.text}}</p>
+                <p class="text-muted">
+                  {{feature.text}}
+                  {% if feature.url %}
+                    <a href="{{feature.url}}">Read more.</a>
+                  {% endif %}
+                </p>
               </div>
             </div>
             {% if forloop.last or index_mod2 == 0 %}
