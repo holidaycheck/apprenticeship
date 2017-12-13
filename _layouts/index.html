@@ -50,8 +50,9 @@
       </div>
     </nav>
 
-    {% include master-header.html %}
-    {% include explainer.html %}
+    {% for section in page.sections %}
+      {% include  {{section}} %}
+    {% endfor %}
 
     <section class="features" id="why">
       <div class="container">
