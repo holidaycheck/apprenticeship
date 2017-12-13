@@ -5,5 +5,5 @@ title: For whom?
 slug: for-whom
 button:
   text: For you?
-  url: /#for-whom-details
+  url: ./#for-whom-details
 ---
