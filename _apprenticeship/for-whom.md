@@ -4,6 +4,6 @@ layout: hero
 title: For whom?
 slug: for-whom
 button:
-  text: Click me man
-  url: /
+  text: For you?
+  url: /#for-whom-details
 ---
