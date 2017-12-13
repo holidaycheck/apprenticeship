@@ -1,7 +1,8 @@
 ---
 position: 30
 layout: hero
-title: Teasme
+title: For whom?
+slug: for-whom
 button:
   text: Click me man
   url: /
