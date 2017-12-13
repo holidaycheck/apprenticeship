@@ -51,8 +51,9 @@
     </nav>
 
     {% for section in page.sections %}
-      {% include  {{section}} %}
+      {% include_relative {{section}} %}
     {% endfor %}
+    {% include_relative _apprenticeship/what-is-it.md %}
 
     <section class="features" id="why">
       <div class="container">
