@@ -165,9 +165,6 @@ section.explainer {
       section.explainer .badges .badge-link {
         display: inline-block;
         margin-bottom: 0; } }
-  @media (min-width: 768px) {
-    section.explainer h2 {
-      font-size: 70px; } }
 
 section.features .section-heading {
   margin-bottom: 100px; }
