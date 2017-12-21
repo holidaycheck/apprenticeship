@@ -72,7 +72,6 @@ section {
   #mainNav .navbar-nav > li > a {
     font-size: 11px;
     font-family: 'Montserrat', 'Helvetica', 'Arial', 'sans-serif';
-    letter-spacing: 2px;
     }
     #mainNav .navbar-nav > li > a.active {
       color: #fdcc52 !important;
