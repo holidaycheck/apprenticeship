@@ -150,7 +150,10 @@ header.masthead {
 
 section.explainer {
   position: relative;
-  padding: 150px 0; }
+  padding: 150px 0;
+  background: #f7f9fe;
+  color: #000820;
+  }
   section.explainer h2 {
     font-size: 50px;
     margin-top: 0; }
@@ -229,7 +232,9 @@ section.cta {
     background-color: rgba(0, 0, 0, 0.5); }
 
 section.contact {
-  text-align: center; }
+  text-align: center;
+  background: #f7f9fe;
+  }
   section.contact h2 {
     margin-top: 0;
     margin-bottom: 25px; }
@@ -275,12 +280,6 @@ footer {
       color: rgba(255, 255, 255, 0.3); }
       footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li a.active {
         text-decoration: none; }
-
-.bg-primary {
-  background: #f1d752;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#f1d752, #f3d152);
-  }
 
 .text-primary {
   color: #fdcc52; }
