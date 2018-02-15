@@ -1,13 +1,16 @@
 ---
 position: 50
 layout: features
-title: Want to read more?
-slug: read-more
-subtitle: We did not invent apprenticeship programs, here is all we know about them.
+title: About HolidayCheck
+slug: about
+subtitle: Help us build the most customer friendly vacation rating- and booking platform
 features:
-  - title: Copy+Paste
-    text: We learn and adjust apprenticeship with companies that do it for over 10 years already.
-    url: http://techblog.holidaycheck.com/post/2017/10/05/apprenticeship-at-8thlight
-  - title: Learn
-    text: Just do it ...
+  - title: Where we are
+    text: We have offices in Munich(<b>de</b>), Bottighofen(<b>ch</b>) and Poznan(<b>pl</b>)
+  - title: What we do
+    text: We are a market leader in travel committed to providing the best experience in online travel at <a href="https://www.holidaycheck.de">https://www.holidaycheck.de</a>
+  - title: How we work
+    text: We care deeply about quality, autonomy and empowerment. Even ouside of the apprenticeship program we run book reading clubs, study groups, we host and sponsor meetups and pay for the conferences
+  - title: What we value
+    text: You can read about our company values and leadership essentials <a href="https://www.holidaycheckgroup.com/career/?lang=en">here</a>
 ---
