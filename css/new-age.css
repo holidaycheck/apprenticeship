@@ -59,12 +59,12 @@ section {
   font-weight: 200;
   letter-spacing: 1px; }
   #mainNav .navbar-brand {
-    color: white;
+    color: black;
     font-family: 'Montserrat', 'Helvetica', 'Arial', 'sans-serif';
     font-weight: 200;
     letter-spacing: 1px; }
     #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
-      color: white; }
+      color: black; }
   #mainNav .navbar-toggler {
     font-size: 12px;
     padding: 8px 10px;
@@ -89,7 +89,7 @@ section {
       border-color: transparent;
       background-color: transparent; }
       #mainNav .navbar-brand {
-        color: fade(white, 70%); }
+        color: white }
         #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
           color: white; }
       #mainNav .navbar-nav > li > a,
@@ -168,6 +168,10 @@ section.explainer {
       section.explainer .badges .badge-link {
         display: inline-block;
         margin-bottom: 0; } }
+
+section.explainer--dark {
+  background: #f4f4f5;
+}
 
 section.features .section-heading {
   margin-bottom: 20px; }

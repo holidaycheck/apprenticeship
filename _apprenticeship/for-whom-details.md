@@ -12,6 +12,4 @@ We focus on **potential** over *professional experience* and **behaviour** over 
 * You are able to **self-organize**
 * You want to **share** your **knowledge** in- and outside the office
 
-If you feel like this description fits you, send your application to **apprenticeship@holidaycheck.com** 
-
-Please include some info on yourself and why you think you are a good fit for our program. We are looking forward to hear from you!
+Interested? <a href="#how-to-apply">Click here</a> for more information on how to apply.
