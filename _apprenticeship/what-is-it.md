@@ -9,6 +9,10 @@ The apprenticeship is all about learning and growing professionaly. For **6 mont
 
 Together with your mentors you will devise an **individual curriculum** based on your interests and the **six categories** described below.
 
-Throughout the program you will **join different teams** and learn about our product and infrastructure. 
+The program consists of **3 phases:**
 
-After **graduation** you will be all set to join one of our product teams full-time as a **Software Crafter**.
+* **The Basics:** A period of self study and improvement. 
+* **The Business:** Throughout the program you will **join different teams** and learn about our product and infrastructure. 
+* **The Masterpiece:** A project that makes use of everything you learned before, with the potential to have a positive impact on HolidayCheck.
+
+The program ends with **graduation**, when you will be all set to join one of our product teams full-time as a **Software Crafter**.
