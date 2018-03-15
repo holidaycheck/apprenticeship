@@ -1,6 +1,6 @@
 ---
 position: 20
-layout: features
+layout: features3col
 title: What will you learn?
 subtitle: We give you frames, you do the pictures
 features:
