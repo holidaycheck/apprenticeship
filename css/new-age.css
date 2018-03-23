@@ -122,6 +122,7 @@ header.masthead {
   background: -webkit-linear-gradient(to left, rgba(123, 67, 151, .8), rgba(220, 36, 48, 0.8)), url(../img/unlicensed-TO-BE-REPLACED.jpg);
   background: linear-gradient(to left, rgba(123, 67, 151, .8), rgba(220, 36, 48, 0.8)), url(../img/unlicensed-TO-BE-REPLACED.jpg);
   background-position: left;
+  background-size: cover;
   }
   header.masthead .header-content {
     max-width: 500px;
