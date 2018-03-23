@@ -9,11 +9,11 @@
       <div class="col-lg-12 my-auto">
         <div class="container-fluid">
           {% for feature in page.features %}
-            {% assign index_mod2 = forloop.index | modulo:2 %}
+            {% assign index_mod2 = forloop.index | modulo:3 %}
             {% if forloop.first or index_mod2 == 1 %}
               <div class="row">
             {% endif %}
-            <div class="col-lg-6">
+            <div class="col-lg-4">
               <div class="feature-item">
                 {% if feature.icon %}
                 <i class="icon-{{feature.icon}} text-primary"></i>
