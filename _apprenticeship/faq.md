@@ -5,14 +5,14 @@ title: FAQ
 slug: faq
 ---
 
-**Q: Will my salary be cut in any way?**
+**Q: Will my salary be reduced in any way during the apprenticeship?**
 
- Not at all. Salaries during and after the **Apprenticeship** will be calculated in the same way as any non-apprentice employee. 
+ No, there will be no deductions. Neither during, nor after the completion of your apprenticeship.
 
-**Q: Is anything about my contract special during the apprenticeship?**
+**Q: Will there be any special clauses in my work contract?**
 
-No, it's a regular permanent employment contract, nothing special about it. 
+No, it will be a regular contract for full employment.
 
-**Q: I have more questions, how can I ask them?**
+**Q: I have more questions, where can I get answers?**
 
-Email us here <a href="mailto:apprenticeship@holidaycheck.com">apprenticeship@holidaycheck.com</a>
+You can reach us at <a href="mailto:apprenticeship@holidaycheck.com">apprenticeship@holidaycheck.com</a>
