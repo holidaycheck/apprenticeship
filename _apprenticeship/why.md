@@ -6,7 +6,7 @@ subtitle: We give you frames, you paint the pictures
 features:
   - title: Testing
     icon: check
-    text: We want to be confident about our Software. Build, change and delete code without fear. And for that, we need tests in place that can tell us when we mess up. You will learn how to write well crafted tests for well crafted Software in a way that will make you wonder how you could live without them.
+    text: We want to be confident about our software. Build, change and delete code without fear. And for that, we need tests in place that can tell us when we mess up. You will learn how to write well crafted tests for well crafted Software in a way that will make you wonder how you could live without them.
 
   - title: Software Design
     icon: layers
