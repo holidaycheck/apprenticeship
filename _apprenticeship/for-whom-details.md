@@ -12,4 +12,13 @@ We focus on **potential** over *professional experience* and **behaviour** over 
 * You are able to **self-organize**
 * You want to **share** your **knowledge** in- and outside the office
 
-Interested? <a href="#how-to-apply">Click here</a> for more information on how to apply.
+**After Graduation you will..**
+
+* join one of our cross-functional, self-organized product teams
+* write quality code using Scala, JavaScript/TypeScript, Nix, ...
+* hone your skills in regular coding katas
+* try something new each second Friday during our Slackday
+* contribute to <a href="https://techblog.holidaycheck.com">our blog</a> -- if you want to.
+* make parts of your work available <a href="https://github.com/holidaycheck">on GitHub</a>.
+
+Interested? <a href="#how-to-apply">Read below</a> for more information on how to apply.
