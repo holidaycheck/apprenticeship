@@ -10,7 +10,7 @@ features:
 
   - title: Software Design
     icon: layers
-    text: What is good design? How to organize this code and is the duplication you just noitced a problem? We don't have the ultimate answers but we can teach you how to ask the right questions in order to make informed decisions.
+    text: What is good design? How to organize this code and is the duplication you just noticed a problem? We don't have the ultimate answers but we can teach you how to ask the right questions in order to make informed decisions.
 
   - title: Communication
     icon: bubbles
