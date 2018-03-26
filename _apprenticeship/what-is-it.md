@@ -15,4 +15,4 @@ The program consists of **3 phases:**
 * **The Business:** Throughout the program you will **join different teams** and learn about our product and infrastructure. 
 * **The Masterpiece:** A project that makes use of everything you learned before, with the potential to have a positive impact on HolidayCheck.
 
-The program ends with **graduation**, when you will be all set to join one of our product teams full-time as a **Software Crafter**.
+The program ends with a **graduation** as a **Software Crafter**. After that you will join one of our product teams full-time to work on the HolidayCheck product.
