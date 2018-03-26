@@ -2,7 +2,7 @@
 position: 20
 layout: features3col
 title: What will you learn?
-subtitle: We give you frames, you do the pictures
+subtitle: We give you frames, you paint the pictures
 features:
   - title: Testing
     icon: check
