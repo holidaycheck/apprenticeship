@@ -14,7 +14,7 @@ features:
 
   - title: Communication
     icon: bubbles
-    text: Good ideas are important. What is even more important is the ability to convey their value to others. You will learn how to communicate assertively by practicing in both oral and written form.
+    text: Good ideas are important. What is even more important is the ability to convey their value to others. You will learn how to communicate clearly and effectively by practicing in both oral and written form.
     
 
   - title: Agile Methods
