@@ -5,7 +5,7 @@ title: How to Apply
 slug: how-to-apply
 ---
 
-If the description above fits you, here's what we need from you: 
+If you're interested and want to apply, here's what we need from you: 
 
 * Your CV
 * A letter where you tell us about yourself, your journey with programming so far and why you think you're a good fit for the program.
