@@ -9,7 +9,7 @@ slug: faq
 
  No, there will be no deductions. Neither during, nor after the completion of your apprenticeship.
 
-**Q: Will my contract will be special in any way because of the apprenticeship?**
+**Q: Will my contract be special in any way because of the apprenticeship?**
 
 No, it will be the same regular contract that any of our employee receives - apprentice or not.
 
