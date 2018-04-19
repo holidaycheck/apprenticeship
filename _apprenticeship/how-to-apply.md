@@ -10,8 +10,8 @@ If you're interested and want to apply, here's what we need from you:
 * Your CV
 * A letter where you tell us about yourself, your journey with programming so far and why you think you're a good fit for the program.
 
-Once you have these 2 documents, send them over to: 
+Once you have these 2 documents, proceed to apply here:
 
-{% include mailto.html mail="apprenticeship@holidaycheck.com" %}
+<a class="btn" href="https://boards.greenhouse.io/holidaycheck/jobs/1113766">Apply for our Apprenticeship</a>
 
-And we'll respond with details on the next steps.
+After a short delay you will be contacted with information on the next steps.
