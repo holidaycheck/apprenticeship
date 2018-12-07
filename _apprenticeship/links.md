@@ -30,4 +30,4 @@ slug: further-info
 * [Sebastian Bruckner](https://twitter.com/sebbruck)
 * [Christian Rackerseder](https://twitter.com/CallistoShip)
 * Periklis Tsirakidis
-* Sergii
+* [Sergii Paryzhskyi](https://github.com/HeeL)
