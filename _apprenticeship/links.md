@@ -13,8 +13,13 @@ slug: further-info
 
 <h3>Current Apprentice Blogs</h3>
 
-* [Daniel's Blog](https://www.dabolivar.com)
-* [Uğurcan's Blog](https://www.sengitu.com/)
+* [Daniel's Blog](https://www.dabolivar.com) Apprentice Feb-Aug 2018
+* [Uğurcan's Blog](https://www.sengitu.com/) Apprentice Feb-Aug 2018
+* [Deirdee's Blog](https://dbringas.netlify.com/) Apprentice since Sep 2018
+* [Lewis's Blog](https://lewis-coleman-blog.netlify.com/) Apprentice since Sep 2018
+* [Marc's Blog](https://marc.netlify.com/) Apprentice since Sep 2018
+* [Anastasia's Blog](https://ciatastrophe.netlify.com/) Apprentice since Oct 2018
+* [Masha's Blog](https://mashareko.tk/) Apprentice since Oct 2018
 * Your Blog here 😃
 
 <h3>Meet the Mentor('s twitter accounts)</h3>
@@ -23,3 +28,6 @@ slug: further-info
 * [Tobias Pflug](https://twitter.com/tpflug)
 * [Timo Reimann](https://twitter.com/timoreimann)
 * [Sebastian Bruckner](https://twitter.com/sebbruck)
+* [Christian Rackerseder](https://twitter.com/CallistoShip)
+* Periklis Tsirakidis
+* [Sergii Paryzhskyi](https://github.com/HeeL)
