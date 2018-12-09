@@ -4,7 +4,7 @@ layout: features3col
 title: The Interview Process
 subtitle: In the process we want to learn if our expectations match, yours and ours.
           We want to learn about your motivation and align on our expectations for the apprenticeship.
-          During the interview process we want to learn what you want to get our of the apprenticeship
+          During the interview process we want to learn what you want to get out of the apprenticeship
           what we can provide by mentoring and helping you grow.
           Every step helps us to decide if we want to continue the process.
 features:
@@ -17,7 +17,7 @@ features:
   - title: Online Interview
     icon: earphones
     text: The first interview will be 1.5h where we introduce the company and want to get to know each other.
-          We want to learn about motivations and your tech background, you ambitions and passion that led you to 
+          We want to learn about motivations and your tech background, your ambitions and passion that led you to 
           apply for the apprenticeship.
   - title: The Challenge
     icon: home
