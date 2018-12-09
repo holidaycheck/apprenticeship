@@ -26,5 +26,11 @@ features:
           and advance the code.
   - title: On-Site Interviews
     icon: bubbles
-    text: In this step there will be a set of interview. It will be one pair-programming,          
+    text: In this step there will be a set of interviews in our offices. It will be one pair-programming,
+          one with our People.Team and two more that will be with people outside of tech, so we get the
+          chance to learn about other views.
+  - title: Final Decision
+    icon: check
+    text: All interviewers from HolidayCheck will sit together and take the final decision, which will
+          be passed on to you as soon as possible.
 ---
