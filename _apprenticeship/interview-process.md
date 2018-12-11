@@ -27,7 +27,8 @@ features:
   - title: On-Site Interviews
     icon: bubbles
     text: In this step there will be a set of interviews in our offices. It will be one pair-programming,
-          one with our "People.Team" and two more that will be with people outside of tech, so we get the
+          one with our "People.Team" (formerly known as HR) and two more that will be with people 
+          outside of tech, so we get the
           chance to learn about other views.
   - title: Final Decision
     icon: check
