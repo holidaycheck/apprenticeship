@@ -13,16 +13,14 @@ slug: further-info
 
 <h3>HolidayCheck Apprentice Blogs</h3>
 
-started February 2018, finished August 2018
-* [Daniel's Blog](https://www.dabolivar.com)
-* [Uğurcan's Blog](https://www.sengitu.com/)
+* [Anastasia's Blog](https://ciatastrophe.netlify.com/) started October 2018
+* [Deirdee's Blog](https://dbringas.netlify.com/) started September 2018
+* [Lewis's Blog](https://lewis-coleman-blog.netlify.com/) started September 2018
+* [Masha's Blog](https://mashareko.tk/) started October 2018
+* [Your Blog here](#how-to-apply)
 
-started September and October 2018, still ongoing
-* [Anastasia's Blog](https://ciatastrophe.netlify.com/)
-* [Deirdee's Blog](https://dbringas.netlify.com/)
-* [Lewis's Blog](https://lewis-coleman-blog.netlify.com/)
-* [Masha's Blog](https://mashareko.tk/)
-* Your Blog here 😃
+* [Daniel's Blog](https://www.dabolivar.com) February - August 2018
+* [Uğurcan's Blog](https://www.sengitu.com/) February - August 2018
 
 <h3>Other Apprenticeship Blogs</h3>
 * [Vera's Blog](https://veracologne.github.io/learning-blog/)
