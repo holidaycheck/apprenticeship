@@ -38,3 +38,9 @@ slug: further-info
 * [Christian Rackerseder](https://twitter.com/CallistoShip)
 * Periklis Tsirakidis
 * [Sergii Paryzhskyi](https://github.com/HeeL)
+
+<h3>Retired Mentor('s twitter accounts)</h3>
+
+* [Tobias Pflug](https://twitter.com/tpflug)
+* [Timo Reimann](https://twitter.com/timoreimann)
+* [Sebastian Bruckner](https://twitter.com/sebbruck)
