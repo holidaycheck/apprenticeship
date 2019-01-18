@@ -35,12 +35,9 @@ slug: further-info
 <h3>Meet the Mentor('s twitter accounts)</h3>
 
 * [Wolfram Kriesing](https://twitter.com/wolframkriesing)
-* [Christian Rackerseder](https://twitter.com/CallistoShip)
-* Periklis Tsirakidis
-* [Sergii Paryzhskyi](https://github.com/HeeL)
-
-<h3>Retired Mentor('s twitter accounts)</h3>
-
 * [Tobias Pflug](https://twitter.com/tpflug)
 * [Timo Reimann](https://twitter.com/timoreimann)
 * [Sebastian Bruckner](https://twitter.com/sebbruck)
+* [Christian Rackerseder](https://twitter.com/CallistoShip)
+* Periklis Tsirakidis
+* [Sergii Paryzhskyi](https://github.com/HeeL)
