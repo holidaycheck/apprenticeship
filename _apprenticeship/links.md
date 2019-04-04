@@ -11,6 +11,7 @@ slug: further-info
 * [Deirdee's Blog](https://dbringas.netlify.com/) started September 2018
 * [Lewis's Blog](https://lewis-coleman-blog.netlify.com/) started September 2018
 * [Masha's Blog](https://mashareko.tk/) started October 2018
+* [Markus's Blog](https://markusheilig.netlify.com/) started April 2019
 * [Your Blog here](#how-to-apply)
 
 <h3>Graduated HolidayCheck Apprentice Blogs</h3>
