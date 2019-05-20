@@ -7,17 +7,17 @@ slug: further-info
 
 <h3>HolidayCheck Apprentice Blogs</h3>
 
-* [Anastasia's Blog](https://ciatastrophe.netlify.com/) started October 2018
-* [Deirdee's Blog](https://dbringas.netlify.com/) started September 2018
-* [Lewis's Blog](https://lewis-coleman-blog.netlify.com/) started September 2018
-* [Masha's Blog](https://mashareko.tk/) started October 2018
-* [Markus's Blog](https://markusheilig.netlify.com/) started April 2019
-* [Your Blog here](#how-to-apply)
+- [Markus's Blog](https://markusheilig.netlify.com/) started April 2019
+- [Your Blog here](#how-to-apply)
 
 <h3>Graduated HolidayCheck Apprentice Blogs</h3>
 
-* [Daniel's Blog](https://www.dabolivar.com) February - August 2018
-* [Uğurcan's Blog](https://www.sengitu.com/) February - August 2018
+- [Daniel's Blog](https://www.dabolivar.com) January - July 2018
+- [Uğurcan's Blog](https://www.sengitu.com/) February - August 2018
+- [Deirdre's Blog](https://dbringas.netlify.com/) September 2018 - February 2018
+- [Lewis's Blog](https://lewis-coleman-blog.netlify.com/) September 2018 - February 2018
+- [Anastasia's Blog](https://ciatastrophe.netlify.com/) October 2018 - March 2018
+- [Masha's Blog](https://mashareko.tk/) October 2018 - March 2018
 
 <h3>Other Apprenticeship Blogs</h3>
 * [Vera's Blog](https://veracologne.github.io/learning-blog/)
@@ -29,19 +29,20 @@ slug: further-info
 
 <h3>Other Blog Posts</h3>
 
-* The Inspiration: [Apprenticeship at 8th Light](http://techblog.holidaycheck.com/post/2017/10/05/apprenticeship-at-8thlight)
-* Apprentice Impressions: [Apprenticeship @ HolidayCheck: One Month In](http://techblog.holidaycheck.com/post/2018/02/16/apprenticeship-one-month-after)
-* [HolidayCheck Tech Blog](http://techblog.holidaycheck.com)
+- The Inspiration: [Apprenticeship at 8th Light](http://techblog.holidaycheck.com/post/2017/10/05/apprenticeship-at-8thlight)
+- Apprentice Impressions: [Apprenticeship @ HolidayCheck: One Month In](http://techblog.holidaycheck.com/post/2018/02/16/apprenticeship-one-month-after)
+- [HolidayCheck Tech Blog](http://techblog.holidaycheck.com)
 
 <h3>Meet the Mentor('s twitter accounts)</h3>
 
-* [Wolfram Kriesing](https://twitter.com/wolframkriesing)
-* [Christian Rackerseder](https://twitter.com/CallistoShip)
-* Periklis Tsirakidis
-* [Sergii Paryzhskyi](https://github.com/HeeL)
+- [Wolfram Kriesing](https://twitter.com/wolframkriesing)
+- [Periklis Tsirakidis](https://twitter.com/theperiklis)
+- [Sergii Paryzhskyi](https://github.com/HeeL)
+- [Daniel Bolivar](https://twitter.com/ddanielbee)
 
 <h3>Retired Mentor('s twitter accounts)</h3>
 
-* [Tobias Pflug](https://twitter.com/tpflug)
-* [Timo Reimann](https://twitter.com/timoreimann)
-* [Sebastian Bruckner](https://twitter.com/sebbruck)
+- [Christian Rackerseder](https://twitter.com/CallistoShip)
+- [Tobias Pflug](https://twitter.com/tpflug)
+- [Timo Reimann](https://twitter.com/timoreimann)
+- [Sebastian Bruckner](https://twitter.com/sebbruck)
