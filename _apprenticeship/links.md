@@ -8,6 +8,7 @@ slug: further-info
 <h3>HolidayCheck Apprentice Blogs</h3>
 
 - [Markus's Blog](https://markusheilig.netlify.com/) started April 2019
+- [Leah's Blog](https://leahchung.netlify.com/) started June 2019
 - [Your Blog here](#how-to-apply)
 
 <h3>Graduated HolidayCheck Apprentice Blogs</h3>
