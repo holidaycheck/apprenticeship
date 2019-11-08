@@ -13,6 +13,10 @@ slug: faq
 
 No, it will be the same regular contract that any of our employee receives - apprentice or not.
 
+**Q: Is this the same as an intership?**
+
+Not really, they are different concepts. Internships are a short-duration experience, usually seen as a requirement for students in order to graduate. An apprenticeship is an opportunity to learn a craft (or get better at it), and by the end of the process, being able to work in the field.
+
 **Q: I have more questions, where can I get answers?**
 
 You can reach us at <a href="mailto:apprenticeship@holidaycheck.com">apprenticeship@holidaycheck.com</a>
