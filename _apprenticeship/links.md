@@ -9,6 +9,8 @@ slug: further-info
 
 - [Markus's Blog](https://markusheilig.netlify.com/) started April 2019
 - [Leah's Blog](https://leahchung.netlify.com/) started June 2019
+- [Preetham's Blog](https://tp47.gitlab.io/kraft/post/) started October 2019
+- [Cristobal's Blog](https://ceheiss.github.io/reflections/) started October 2019
 - [Your Blog here](#how-to-apply)
 
 <h3>Graduated HolidayCheck Apprentice Blogs</h3>
