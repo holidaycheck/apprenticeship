@@ -1,7 +1,4 @@
-FROM jekyll/builder
-WORKDIR /usr/src/app
+FROM jekyll/jekyll
 COPY . .
-RUN gem install bundler
-RUN bundler update --bundler
-RUN bundler install
-CMD [ "bundle", "exec", "jekyll", "serve" ]    
+RUN [ "bundle", "install", "--path", "vendor/bundle"]
+RUN [ "bundle", "exec", "jekyll", "serve" ]    
