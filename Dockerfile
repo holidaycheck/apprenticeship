@@ -3,7 +3,8 @@ FROM jekyll/jekyll
 WORKDIR /srv/
 RUN gem install bundler
 
-COPY . . # Note: content folder is copied, only to be replaced later.
+# Note: content folder is copied, only to be replaced later.
+COPY . .
 RUN chmod a+w Gemfile.lock
 RUN bundle install
 
